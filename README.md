@@ -103,7 +103,7 @@ I'm a third-year **B.Tech Computer Science** student at **Sanjivani University, 
 
 **Tech:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-🔗 [Repository](https://github.com/Akashpingale/REPLACE_REPO_NAME) · [Live demo](REPLACE_LIVE_DEMO_URL)
+🔗 [Repository](https://github.com/Akashpingale/SATQUERY_AI) · [Live demo](REPLACE_LIVE_DEMO_URL)
 
 </details>
 
