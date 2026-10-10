@@ -270,3 +270,6 @@ I'm looking for a **Software Development Internship** where I can build AI-power
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7F00FF,100:00D4FF&section=footer" alt="footer" width="100%" />
 
 </div>
+## 🐍 GitHub Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Akashpingale/Akashpingale/output/github-snake.svg)
